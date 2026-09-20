@@ -21,3 +21,6 @@
 ## 文件
 
 - `SKILL.md` — 技能定义与完整格式规范
+- [`tools/`](tools/README.md) — 附带的独立脚本
+
+> `tools/` 与 Skill 只是同放一处、一起版本管理的两个工具：运行脚本不影响 Skill，Skill 运行时也不会读取脚本。
